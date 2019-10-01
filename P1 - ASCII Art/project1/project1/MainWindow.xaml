@@ -1,0 +1,59 @@
+﻿<Window x:Name="win_ASCIIArt" x:Class="project1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:project1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="453.334" Width="567.001">
+    <Grid Margin="0,0,-17.667,-9.333">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="471*"/>
+            <ColumnDefinition Width="107*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="btn_convert" Content="Convert" HorizontalAlignment="Left" Margin="221,382,0,0" VerticalAlignment="Top" Width="108" Height="34" Click="btn_convert_Click"/>
+        <Image x:Name="img_original" HorizontalAlignment="Left" Height="327" Margin="10,50,0,0" VerticalAlignment="Top" Width="533" Grid.ColumnSpan="2"/>
+        <ComboBox x:Name="cb_type" HorizontalAlignment="Left" Margin="285,6,0,0" VerticalAlignment="Top" Width="114" Height="20">
+            <ComboBoxItem Content="Consolas"/>
+            <ComboBoxItem Content="Courier"/>
+            <ComboBoxItem Content="Courier New"/>
+            <ComboBoxItem Content="Lucida Console"/>
+        </ComboBox>
+        <ComboBox x:Name="cb_size" HorizontalAlignment="Left" Margin="23.667,6,0,0" VerticalAlignment="Top" Width="57" Height="20" Grid.Column="1">
+            <ComboBoxItem Content="8"/>
+            <ComboBoxItem Content="9"/>
+            <ComboBoxItem Content="10"/>
+            <ComboBoxItem Content="11"/>
+            <ComboBoxItem Content="12"/>
+            <ComboBoxItem Content="13"/>
+            <ComboBoxItem Content="14"/>
+            <ComboBoxItem Content="16"/>
+            <ComboBoxItem Content="18"/>
+          </ComboBox>
+        <Label x:Name="lblfont" Content="Font Type:" HorizontalAlignment="Left" Margin="212,4,0,0" VerticalAlignment="Top" Height="25" Width="68"/>
+        <Label x:Name="lblsize" Content="Font Size:" HorizontalAlignment="Left" Margin="404,4,0,0" VerticalAlignment="Top" Width="74" Height="25" Grid.ColumnSpan="2"/>
+        <Menu HorizontalAlignment="Left" Height="32" VerticalAlignment="Top" Width="213" Margin="-1,0,0,0">
+            <MenuItem x:Name="mi_file" Header="_File" Height="32" Width="46">
+                <MenuItem Header="Load..." Click="mnuLoad_Click" />
+                <Separator />
+                <MenuItem Header="_Save" Click="mnuSave_Click"/>
+                <Separator />
+                <MenuItem Header="_Exit" Click="mnuExit_Click"/>
+            </MenuItem>
+            <MenuItem x:Name="mi_instructions" Header="_Instructions" Height="32" Width="83">
+                <MenuItem x:Name="one" Header="1. Click on File --> Load"/>
+                <MenuItem x:Name="two" Header="2. Choose an image"/>
+                <MenuItem x:Name="three" Header="3. Select a font type"/>
+                <MenuItem x:Name="four" Header="4. Select a font size"/>
+                <MenuItem x:Name="five" Header="5. Click on Convert Button"/>
+                <MenuItem x:Name="six" Header="6. Click on File --> Save"/>
+
+            </MenuItem>
+            <MenuItem x:Name="mi_about" Header="_About" Height="32" Width="83">
+                <MenuItem x:Name="About" Header="Author: Abdullah Aljandali                       &#xD;&#xA;Date: 9/5/2018                       &#xD;&#xA;This is a program that converts images into ASCII art" Height="75"/> >
+            </MenuItem>
+        </Menu>
+        <Image x:Name="img" HorizontalAlignment="Left" Height="32" Margin="47.667,391,0,0" VerticalAlignment="Top" Width="33" Grid.Column="1"/>
+
+    </Grid>
+</Window>

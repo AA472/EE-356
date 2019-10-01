@@ -1,0 +1,57 @@
+C:\Users\aa472\Desktop\EE356P4AA\Gold Button Animated\Gold Button Animated\obj\Debug\Gold Button Animated.csprojResolveAssemblyReference.cache
+C:\Users\aa472\Desktop\EE356P4AA\Gold Button Animated\Gold Button Animated\obj\Debug\MainWindow.g.cs
+C:\Users\aa472\Desktop\EE356P4AA\Gold Button Animated\Gold Button Animated\obj\Debug\App.g.cs
+C:\Users\aa472\Desktop\EE356P4AA\Gold Button Animated\Gold Button Animated\obj\Debug\Gold Button Animated_MarkupCompile.cache
+C:\Users\aa472\Desktop\EE356P4AA\Gold Button Animated\Gold Button Animated\obj\Debug\Gold Button Animated_MarkupCompile.lref
+C:\Users\aa472\Desktop\EE356P4AA\Gold Button Animated\Gold Button Animated\bin\Debug\Gold Button Animated.exe.config
+C:\Users\aa472\Desktop\EE356P4AA\Gold Button Animated\Gold Button Animated\bin\Debug\Gold Button Animated.exe
+C:\Users\aa472\Desktop\EE356P4AA\Gold Button Animated\Gold Button Animated\bin\Debug\Gold Button Animated.pdb
+C:\Users\aa472\Desktop\EE356P4AA\Gold Button Animated\Gold Button Animated\obj\Debug\MainWindow.baml
+C:\Users\aa472\Desktop\EE356P4AA\Gold Button Animated\Gold Button Animated\obj\Debug\Gold Button Animated.g.resources
+C:\Users\aa472\Desktop\EE356P4AA\Gold Button Animated\Gold Button Animated\obj\Debug\Gold_Button_Animated.Properties.Resources.resources
+C:\Users\aa472\Desktop\EE356P4AA\Gold Button Animated\Gold Button Animated\obj\Debug\Gold Button Animated.csproj.GenerateResource.Cache
+C:\Users\aa472\Desktop\EE356P4AA\Gold Button Animated\Gold Button Animated\obj\Debug\Gold Button Animated.exe
+C:\Users\aa472\Desktop\EE356P4AA\Gold Button Animated\Gold Button Animated\obj\Debug\Gold Button Animated.pdb
+C:\Users\Abdullah\Desktop\EE356P4AA\Gold Button Animated\Gold Button Animated\bin\Debug\Gold Button Animated.exe.config
+C:\Users\Abdullah\Desktop\EE356P4AA\Gold Button Animated\Gold Button Animated\obj\Debug\Gold Button Animated.exe
+C:\Users\Abdullah\Desktop\EE356P4AA\Gold Button Animated\Gold Button Animated\obj\Debug\Gold Button Animated.pdb
+C:\Users\Abdullah\Desktop\EE356P4AA\Gold Button Animated\Gold Button Animated\bin\Debug\Gold Button Animated.exe
+C:\Users\Abdullah\Desktop\EE356P4AA\Gold Button Animated\Gold Button Animated\bin\Debug\Gold Button Animated.pdb
+C:\Users\Abdullah\Desktop\EE356P4AA\Gold Button Animated\Gold Button Animated\obj\Debug\Gold Button Animated.csprojResolveAssemblyReference.cache
+C:\Users\Abdullah\Desktop\EE356P4AA\Gold Button Animated\Gold Button Animated\obj\Debug\MainWindow.g.cs
+C:\Users\Abdullah\Desktop\EE356P4AA\Gold Button Animated\Gold Button Animated\obj\Debug\App.g.cs
+C:\Users\Abdullah\Desktop\EE356P4AA\Gold Button Animated\Gold Button Animated\obj\Debug\Gold Button Animated_MarkupCompile.cache
+C:\Users\Abdullah\Desktop\EE356P4AA\Gold Button Animated\Gold Button Animated\obj\Debug\Gold Button Animated_MarkupCompile.lref
+C:\Users\Abdullah\Desktop\EE356P4AA\Gold Button Animated\Gold Button Animated\obj\Debug\MainWindow.baml
+C:\Users\Abdullah\Desktop\EE356P4AA\Gold Button Animated\Gold Button Animated\obj\Debug\Gold Button Animated.g.resources
+C:\Users\Abdullah\Desktop\EE356P4AA\Gold Button Animated\Gold Button Animated\obj\Debug\Gold_Button_Animated.Properties.Resources.resources
+C:\Users\Abdullah\Desktop\EE356P4AA\Gold Button Animated\Gold Button Animated\obj\Debug\Gold Button Animated.csproj.GenerateResource.Cache
+C:\Users\aa472\Desktop\EE356P4AA\EE356P4AA\Gold Button Animated\Gold Button Animated\bin\Debug\Gold Button Animated.exe.config
+C:\Users\aa472\Desktop\EE356P4AA\EE356P4AA\Gold Button Animated\Gold Button Animated\bin\Debug\Gold Button Animated.exe
+C:\Users\aa472\Desktop\EE356P4AA\EE356P4AA\Gold Button Animated\Gold Button Animated\bin\Debug\Gold Button Animated.pdb
+C:\Users\aa472\Desktop\EE356P4AA\EE356P4AA\Gold Button Animated\Gold Button Animated\obj\Debug\Gold Button Animated.csprojResolveAssemblyReference.cache
+C:\Users\aa472\Desktop\EE356P4AA\EE356P4AA\Gold Button Animated\Gold Button Animated\obj\Debug\MainWindow.g.cs
+C:\Users\aa472\Desktop\EE356P4AA\EE356P4AA\Gold Button Animated\Gold Button Animated\obj\Debug\App.g.cs
+C:\Users\aa472\Desktop\EE356P4AA\EE356P4AA\Gold Button Animated\Gold Button Animated\obj\Debug\Gold Button Animated_MarkupCompile.cache
+C:\Users\aa472\Desktop\EE356P4AA\EE356P4AA\Gold Button Animated\Gold Button Animated\obj\Debug\Gold Button Animated_MarkupCompile.lref
+C:\Users\aa472\Desktop\EE356P4AA\EE356P4AA\Gold Button Animated\Gold Button Animated\obj\Debug\MainWindow.baml
+C:\Users\aa472\Desktop\EE356P4AA\EE356P4AA\Gold Button Animated\Gold Button Animated\obj\Debug\Gold Button Animated.g.resources
+C:\Users\aa472\Desktop\EE356P4AA\EE356P4AA\Gold Button Animated\Gold Button Animated\obj\Debug\Gold_Button_Animated.Properties.Resources.resources
+C:\Users\aa472\Desktop\EE356P4AA\EE356P4AA\Gold Button Animated\Gold Button Animated\obj\Debug\Gold Button Animated.csproj.GenerateResource.Cache
+C:\Users\aa472\Desktop\EE356P4AA\EE356P4AA\Gold Button Animated\Gold Button Animated\obj\Debug\Gold Button Animated.exe
+C:\Users\aa472\Desktop\EE356P4AA\EE356P4AA\Gold Button Animated\Gold Button Animated\obj\Debug\Gold Button Animated.pdb
+C:\Users\Abdullah Aljandali\Desktop\github\EE 356\EE356P4AA\EE356P4AA\EE356P4AA\Gold Button Animated\Gold Button Animated\bin\Debug\Gold Button Animated.exe.config
+C:\Users\Abdullah Aljandali\Desktop\github\EE 356\EE356P4AA\EE356P4AA\EE356P4AA\Gold Button Animated\Gold Button Animated\bin\Debug\Gold Button Animated.exe
+C:\Users\Abdullah Aljandali\Desktop\github\EE 356\EE356P4AA\EE356P4AA\EE356P4AA\Gold Button Animated\Gold Button Animated\bin\Debug\Gold Button Animated.pdb
+C:\Users\Abdullah Aljandali\Desktop\github\EE 356\EE356P4AA\EE356P4AA\EE356P4AA\Gold Button Animated\Gold Button Animated\obj\Debug\Gold Button Animated.csprojAssemblyReference.cache
+C:\Users\Abdullah Aljandali\Desktop\github\EE 356\EE356P4AA\EE356P4AA\EE356P4AA\Gold Button Animated\Gold Button Animated\obj\Debug\MainWindow.g.cs
+C:\Users\Abdullah Aljandali\Desktop\github\EE 356\EE356P4AA\EE356P4AA\EE356P4AA\Gold Button Animated\Gold Button Animated\obj\Debug\App.g.cs
+C:\Users\Abdullah Aljandali\Desktop\github\EE 356\EE356P4AA\EE356P4AA\EE356P4AA\Gold Button Animated\Gold Button Animated\obj\Debug\Gold Button Animated_MarkupCompile.cache
+C:\Users\Abdullah Aljandali\Desktop\github\EE 356\EE356P4AA\EE356P4AA\EE356P4AA\Gold Button Animated\Gold Button Animated\obj\Debug\Gold Button Animated_MarkupCompile.lref
+C:\Users\Abdullah Aljandali\Desktop\github\EE 356\EE356P4AA\EE356P4AA\EE356P4AA\Gold Button Animated\Gold Button Animated\obj\Debug\MainWindow.baml
+C:\Users\Abdullah Aljandali\Desktop\github\EE 356\EE356P4AA\EE356P4AA\EE356P4AA\Gold Button Animated\Gold Button Animated\obj\Debug\Gold Button Animated.g.resources
+C:\Users\Abdullah Aljandali\Desktop\github\EE 356\EE356P4AA\EE356P4AA\EE356P4AA\Gold Button Animated\Gold Button Animated\obj\Debug\Gold_Button_Animated.Properties.Resources.resources
+C:\Users\Abdullah Aljandali\Desktop\github\EE 356\EE356P4AA\EE356P4AA\EE356P4AA\Gold Button Animated\Gold Button Animated\obj\Debug\Gold Button Animated.csproj.GenerateResource.cache
+C:\Users\Abdullah Aljandali\Desktop\github\EE 356\EE356P4AA\EE356P4AA\EE356P4AA\Gold Button Animated\Gold Button Animated\obj\Debug\Gold Button Animated.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah Aljandali\Desktop\github\EE 356\EE356P4AA\EE356P4AA\EE356P4AA\Gold Button Animated\Gold Button Animated\obj\Debug\Gold Button Animated.exe
+C:\Users\Abdullah Aljandali\Desktop\github\EE 356\EE356P4AA\EE356P4AA\EE356P4AA\Gold Button Animated\Gold Button Animated\obj\Debug\Gold Button Animated.pdb

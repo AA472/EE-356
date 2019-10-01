@@ -1,0 +1,43 @@
+C:\Users\aa472\Desktop\365 project\project1\project1\bin\Debug\project1.exe.config
+C:\Users\aa472\Desktop\365 project\project1\project1\bin\Debug\project1.exe
+C:\Users\aa472\Desktop\365 project\project1\project1\bin\Debug\project1.pdb
+C:\Users\aa472\Desktop\365 project\project1\project1\obj\Debug\project1.csprojResolveAssemblyReference.cache
+C:\Users\aa472\Desktop\365 project\project1\project1\obj\Debug\MainWindow.g.cs
+C:\Users\aa472\Desktop\365 project\project1\project1\obj\Debug\App.g.cs
+C:\Users\aa472\Desktop\365 project\project1\project1\obj\Debug\project1_MarkupCompile.cache
+C:\Users\aa472\Desktop\365 project\project1\project1\obj\Debug\project1_MarkupCompile.lref
+C:\Users\aa472\Desktop\365 project\project1\project1\obj\Debug\MainWindow.baml
+C:\Users\aa472\Desktop\365 project\project1\project1\obj\Debug\project1.g.resources
+C:\Users\aa472\Desktop\365 project\project1\project1\obj\Debug\project1.exe
+C:\Users\aa472\Desktop\365 project\project1\project1\obj\Debug\project1.pdb
+C:\Users\aa472\Desktop\365 project\project1\project1\obj\Debug\project1.csproj.GenerateResource.Cache
+C:\Users\aa472\Desktop\365 project\project1\project1\obj\Debug\project1.Resources.Resource1.resources
+C:\Users\aa472\Desktop\done stuff\Project 1 submission\project 1\project1\project1\bin\Debug\project1.exe.config
+C:\Users\aa472\Desktop\done stuff\Project 1 submission\project 1\project1\project1\bin\Debug\project1.exe
+C:\Users\aa472\Desktop\done stuff\Project 1 submission\project 1\project1\project1\bin\Debug\project1.pdb
+C:\Users\aa472\Desktop\done stuff\Project 1 submission\project 1\project1\project1\obj\Debug\project1.csprojResolveAssemblyReference.cache
+C:\Users\aa472\Desktop\done stuff\Project 1 submission\project 1\project1\project1\obj\Debug\MainWindow.g.cs
+C:\Users\aa472\Desktop\done stuff\Project 1 submission\project 1\project1\project1\obj\Debug\App.g.cs
+C:\Users\aa472\Desktop\done stuff\Project 1 submission\project 1\project1\project1\obj\Debug\project1_MarkupCompile.cache
+C:\Users\aa472\Desktop\done stuff\Project 1 submission\project 1\project1\project1\obj\Debug\project1_MarkupCompile.lref
+C:\Users\aa472\Desktop\done stuff\Project 1 submission\project 1\project1\project1\obj\Debug\MainWindow.baml
+C:\Users\aa472\Desktop\done stuff\Project 1 submission\project 1\project1\project1\obj\Debug\project1.g.resources
+C:\Users\aa472\Desktop\done stuff\Project 1 submission\project 1\project1\project1\obj\Debug\project1.Resources.Resource1.resources
+C:\Users\aa472\Desktop\done stuff\Project 1 submission\project 1\project1\project1\obj\Debug\project1.csproj.GenerateResource.Cache
+C:\Users\aa472\Desktop\done stuff\Project 1 submission\project 1\project1\project1\obj\Debug\project1.exe
+C:\Users\aa472\Desktop\done stuff\Project 1 submission\project 1\project1\project1\obj\Debug\project1.pdb
+C:\Users\Abdullah Aljandali\Desktop\github\EE 356\EE356P1AA\project1\project1\bin\Debug\project1.exe.config
+C:\Users\Abdullah Aljandali\Desktop\github\EE 356\EE356P1AA\project1\project1\bin\Debug\project1.exe
+C:\Users\Abdullah Aljandali\Desktop\github\EE 356\EE356P1AA\project1\project1\bin\Debug\project1.pdb
+C:\Users\Abdullah Aljandali\Desktop\github\EE 356\EE356P1AA\project1\project1\obj\Debug\project1.csprojAssemblyReference.cache
+C:\Users\Abdullah Aljandali\Desktop\github\EE 356\EE356P1AA\project1\project1\obj\Debug\MainWindow.g.cs
+C:\Users\Abdullah Aljandali\Desktop\github\EE 356\EE356P1AA\project1\project1\obj\Debug\App.g.cs
+C:\Users\Abdullah Aljandali\Desktop\github\EE 356\EE356P1AA\project1\project1\obj\Debug\project1_MarkupCompile.cache
+C:\Users\Abdullah Aljandali\Desktop\github\EE 356\EE356P1AA\project1\project1\obj\Debug\project1_MarkupCompile.lref
+C:\Users\Abdullah Aljandali\Desktop\github\EE 356\EE356P1AA\project1\project1\obj\Debug\MainWindow.baml
+C:\Users\Abdullah Aljandali\Desktop\github\EE 356\EE356P1AA\project1\project1\obj\Debug\project1.g.resources
+C:\Users\Abdullah Aljandali\Desktop\github\EE 356\EE356P1AA\project1\project1\obj\Debug\project1.Resources.Resource1.resources
+C:\Users\Abdullah Aljandali\Desktop\github\EE 356\EE356P1AA\project1\project1\obj\Debug\project1.csproj.GenerateResource.cache
+C:\Users\Abdullah Aljandali\Desktop\github\EE 356\EE356P1AA\project1\project1\obj\Debug\project1.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah Aljandali\Desktop\github\EE 356\EE356P1AA\project1\project1\obj\Debug\project1.exe
+C:\Users\Abdullah Aljandali\Desktop\github\EE 356\EE356P1AA\project1\project1\obj\Debug\project1.pdb

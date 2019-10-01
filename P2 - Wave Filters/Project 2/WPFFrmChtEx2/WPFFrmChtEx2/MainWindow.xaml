@@ -1,0 +1,7 @@
+﻿<Window x:Class="WPFFrmChtEx2.MainWindow"         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"         Title="MainWindow" Height="768" Width="1024"          WindowStartupLocation="CenterScreen">
+    <Grid Name="grdFrmCht">
+        <Canvas x:Name="cnvChart" HorizontalAlignment="Left" Height="590"             Margin="10,10,0,0" VerticalAlignment="Top" Width="982"             Loaded="cnvChart_Loaded"/>
+        <Button x:Name="btnStart" Content="Plot" HorizontalAlignment="Left"             Height="55" Margin="415,642,0,0" VerticalAlignment="Top"              Width="170" FontSize="24" Click="Button_Click"/>
+    </Grid>
+</Window>
+    

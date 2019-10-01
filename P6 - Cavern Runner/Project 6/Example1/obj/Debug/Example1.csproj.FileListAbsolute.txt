@@ -1,0 +1,72 @@
+\\Mac\Home\Documents\Classes\Fall 2018\Examples\Example1\Example1\bin\Debug\Example1.exe
+\\Mac\Home\Documents\Classes\Fall 2018\Examples\Example1\Example1\bin\Debug\Example1.pdb
+\\Mac\Home\Documents\Classes\Fall 2018\Examples\Example1\Example1\bin\Debug\GHIElectronics.TinyCLR.Devices.Adc.dll
+\\Mac\Home\Documents\Classes\Fall 2018\Examples\Example1\Example1\bin\Debug\GHIElectronics.TinyCLR.Devices.Can.dll
+\\Mac\Home\Documents\Classes\Fall 2018\Examples\Example1\Example1\bin\Debug\GHIElectronics.TinyCLR.Devices.Dac.dll
+\\Mac\Home\Documents\Classes\Fall 2018\Examples\Example1\Example1\bin\Debug\GHIElectronics.TinyCLR.Devices.Display.dll
+\\Mac\Home\Documents\Classes\Fall 2018\Examples\Example1\Example1\bin\Debug\GHIElectronics.TinyCLR.Devices.Gpio.dll
+\\Mac\Home\Documents\Classes\Fall 2018\Examples\Example1\Example1\bin\Debug\GHIElectronics.TinyCLR.Devices.I2c.dll
+\\Mac\Home\Documents\Classes\Fall 2018\Examples\Example1\Example1\bin\Debug\GHIElectronics.TinyCLR.Devices.Pwm.dll
+\\Mac\Home\Documents\Classes\Fall 2018\Examples\Example1\Example1\bin\Debug\GHIElectronics.TinyCLR.Devices.Rtc.dll
+\\Mac\Home\Documents\Classes\Fall 2018\Examples\Example1\Example1\bin\Debug\GHIElectronics.TinyCLR.Devices.Signals.dll
+\\Mac\Home\Documents\Classes\Fall 2018\Examples\Example1\Example1\bin\Debug\GHIElectronics.TinyCLR.Devices.Spi.dll
+\\Mac\Home\Documents\Classes\Fall 2018\Examples\Example1\Example1\bin\Debug\GHIElectronics.TinyCLR.Devices.Storage.dll
+\\Mac\Home\Documents\Classes\Fall 2018\Examples\Example1\Example1\bin\Debug\GHIElectronics.TinyCLR.Devices.Uart.dll
+\\Mac\Home\Documents\Classes\Fall 2018\Examples\Example1\Example1\bin\Debug\GHIElectronics.TinyCLR.Drawing.dll
+\\Mac\Home\Documents\Classes\Fall 2018\Examples\Example1\Example1\bin\Debug\GHIElectronics.TinyCLR.Native.dll
+\\Mac\Home\Documents\Classes\Fall 2018\Examples\Example1\Example1\bin\Debug\GHIElectronics.TinyCLR.Pins.dll
+\\Mac\Home\Documents\Classes\Fall 2018\Examples\Example1\Example1\bin\Debug\mscorlib.dll
+\\Mac\Home\Documents\Classes\Fall 2018\Examples\Example1\Example1\obj\Debug\Example1.Resource1.resources
+\\Mac\Home\Documents\Classes\Fall 2018\Examples\Example1\Example1\obj\Debug\Example1.Resource2.resources
+\\Mac\Home\Documents\Classes\Fall 2018\Examples\Example1\Example1\obj\Debug\Example1.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Classes\Fall 2018\Examples\Example1\Example1\obj\Debug\Example1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Classes\Fall 2018\Examples\Example1\Example1\obj\Debug\Example1.exe
+\\Mac\Home\Documents\Classes\Fall 2018\Examples\Example1\Example1\obj\Debug\Example1.pdb
+C:\Users\cj106\Downloads\Example1\Example1\Example1\bin\Debug\Example1.exe
+C:\Users\cj106\Downloads\Example1\Example1\Example1\bin\Debug\Example1.pdb
+C:\Users\cj106\Downloads\Example1\Example1\Example1\bin\Debug\GHIElectronics.TinyCLR.Devices.Adc.dll
+C:\Users\cj106\Downloads\Example1\Example1\Example1\bin\Debug\GHIElectronics.TinyCLR.Devices.Can.dll
+C:\Users\cj106\Downloads\Example1\Example1\Example1\bin\Debug\GHIElectronics.TinyCLR.Devices.Dac.dll
+C:\Users\cj106\Downloads\Example1\Example1\Example1\bin\Debug\GHIElectronics.TinyCLR.Devices.Display.dll
+C:\Users\cj106\Downloads\Example1\Example1\Example1\bin\Debug\GHIElectronics.TinyCLR.Devices.Gpio.dll
+C:\Users\cj106\Downloads\Example1\Example1\Example1\bin\Debug\GHIElectronics.TinyCLR.Devices.I2c.dll
+C:\Users\cj106\Downloads\Example1\Example1\Example1\bin\Debug\GHIElectronics.TinyCLR.Devices.Pwm.dll
+C:\Users\cj106\Downloads\Example1\Example1\Example1\bin\Debug\GHIElectronics.TinyCLR.Devices.Rtc.dll
+C:\Users\cj106\Downloads\Example1\Example1\Example1\bin\Debug\GHIElectronics.TinyCLR.Devices.Signals.dll
+C:\Users\cj106\Downloads\Example1\Example1\Example1\bin\Debug\GHIElectronics.TinyCLR.Devices.Spi.dll
+C:\Users\cj106\Downloads\Example1\Example1\Example1\bin\Debug\GHIElectronics.TinyCLR.Devices.Storage.dll
+C:\Users\cj106\Downloads\Example1\Example1\Example1\bin\Debug\GHIElectronics.TinyCLR.Devices.Uart.dll
+C:\Users\cj106\Downloads\Example1\Example1\Example1\bin\Debug\GHIElectronics.TinyCLR.Drawing.dll
+C:\Users\cj106\Downloads\Example1\Example1\Example1\bin\Debug\GHIElectronics.TinyCLR.Native.dll
+C:\Users\cj106\Downloads\Example1\Example1\Example1\bin\Debug\GHIElectronics.TinyCLR.Pins.dll
+C:\Users\cj106\Downloads\Example1\Example1\Example1\bin\Debug\mscorlib.dll
+C:\Users\cj106\Downloads\Example1\Example1\Example1\obj\Debug\Example1.csprojResolveAssemblyReference.cache
+C:\Users\cj106\Downloads\Example1\Example1\Example1\obj\Debug\Example1.Resource1.resources
+C:\Users\cj106\Downloads\Example1\Example1\Example1\obj\Debug\Example1.Resource2.resources
+C:\Users\cj106\Downloads\Example1\Example1\Example1\obj\Debug\Example1.csproj.GenerateResource.Cache
+C:\Users\cj106\Downloads\Example1\Example1\Example1\obj\Debug\Example1.exe
+C:\Users\cj106\Downloads\Example1\Example1\Example1\obj\Debug\Example1.pdb
+C:\Users\cj106\Downloads\Example1 - Copy\Example1\Example1\bin\Debug\Example1.exe
+C:\Users\cj106\Downloads\Example1 - Copy\Example1\Example1\bin\Debug\Example1.pdb
+C:\Users\cj106\Downloads\Example1 - Copy\Example1\Example1\bin\Debug\GHIElectronics.TinyCLR.Devices.Adc.dll
+C:\Users\cj106\Downloads\Example1 - Copy\Example1\Example1\bin\Debug\GHIElectronics.TinyCLR.Devices.Can.dll
+C:\Users\cj106\Downloads\Example1 - Copy\Example1\Example1\bin\Debug\GHIElectronics.TinyCLR.Devices.Dac.dll
+C:\Users\cj106\Downloads\Example1 - Copy\Example1\Example1\bin\Debug\GHIElectronics.TinyCLR.Devices.Display.dll
+C:\Users\cj106\Downloads\Example1 - Copy\Example1\Example1\bin\Debug\GHIElectronics.TinyCLR.Devices.Gpio.dll
+C:\Users\cj106\Downloads\Example1 - Copy\Example1\Example1\bin\Debug\GHIElectronics.TinyCLR.Devices.I2c.dll
+C:\Users\cj106\Downloads\Example1 - Copy\Example1\Example1\bin\Debug\GHIElectronics.TinyCLR.Devices.Pwm.dll
+C:\Users\cj106\Downloads\Example1 - Copy\Example1\Example1\bin\Debug\GHIElectronics.TinyCLR.Devices.Rtc.dll
+C:\Users\cj106\Downloads\Example1 - Copy\Example1\Example1\bin\Debug\GHIElectronics.TinyCLR.Devices.Signals.dll
+C:\Users\cj106\Downloads\Example1 - Copy\Example1\Example1\bin\Debug\GHIElectronics.TinyCLR.Devices.Spi.dll
+C:\Users\cj106\Downloads\Example1 - Copy\Example1\Example1\bin\Debug\GHIElectronics.TinyCLR.Devices.Storage.dll
+C:\Users\cj106\Downloads\Example1 - Copy\Example1\Example1\bin\Debug\GHIElectronics.TinyCLR.Devices.Uart.dll
+C:\Users\cj106\Downloads\Example1 - Copy\Example1\Example1\bin\Debug\GHIElectronics.TinyCLR.Drawing.dll
+C:\Users\cj106\Downloads\Example1 - Copy\Example1\Example1\bin\Debug\GHIElectronics.TinyCLR.Native.dll
+C:\Users\cj106\Downloads\Example1 - Copy\Example1\Example1\bin\Debug\GHIElectronics.TinyCLR.Pins.dll
+C:\Users\cj106\Downloads\Example1 - Copy\Example1\Example1\bin\Debug\mscorlib.dll
+C:\Users\cj106\Downloads\Example1 - Copy\Example1\Example1\obj\Debug\Example1.Resource1.resources
+C:\Users\cj106\Downloads\Example1 - Copy\Example1\Example1\obj\Debug\Example1.Resource2.resources
+C:\Users\cj106\Downloads\Example1 - Copy\Example1\Example1\obj\Debug\Example1.csproj.GenerateResource.Cache
+C:\Users\cj106\Downloads\Example1 - Copy\Example1\Example1\obj\Debug\Example1.exe
+C:\Users\cj106\Downloads\Example1 - Copy\Example1\Example1\obj\Debug\Example1.pdb
+C:\Users\cj106\Downloads\Example1 - Copy\Example1\Example1\obj\Debug\Example1.csprojResolveAssemblyReference.cache

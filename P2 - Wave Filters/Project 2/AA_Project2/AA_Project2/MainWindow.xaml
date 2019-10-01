@@ -1,0 +1,73 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AA_Project2"
+        xmlns:System="clr-namespace:System;assembly=mscorlib" x:Class="AA_Project2.MainWindow"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="554" Width="1322"
+        WindowStartupLocation = "CenterScreen">
+
+    <Grid>
+        <Menu HorizontalAlignment="Left" Height="32" VerticalAlignment="Top" Width="348" Margin="-1,0,0,0">
+            <MenuItem x:Name="mi_file" Header="_File" Height="32" Width="46">
+                <MenuItem Header="Select .wav file..." Click="mnuLoad_Click" />
+                <Separator />
+                <MenuItem Header="_Exit" Click="mnuExit_Click"/>
+            </MenuItem>
+            <MenuItem x:Name="mi_instructions" Header="_Instructions" Height="32" Width="83">
+                <MenuItem x:Name="one" Header="1. Click on File --&gt; Load"/>
+                <MenuItem x:Name="two" Header="2. Choose an WAV file"/>
+                <MenuItem x:Name="three" Header="3. Enter start and end values for the time and frequeny"/>
+                <MenuItem x:Name="five" Header="5. Click on Plot Button"/>
+                <MenuItem x:Name="six" Header="6. Click on Filter Wave button"/>
+                <MenuItem x:Name="seven" Header="7. Choose a filter and enter a cutoff frequency"/>
+
+            </MenuItem>
+
+            <MenuItem x:Name="mi_about" Header="_About" Height="32" Width="56">
+                <MenuItem x:Name="About" Header="Author: Abdullah Aljandali                       &#xA;Date: 9/5/2018  &#xD;&#xA;Course: EE 356                     &#xA;This is a program that can read in a WAV file, plot it in time &#xD;&#xA;and frequency domains, play, and filter it." Height="111" Margin="0,0,-15.667,0"/>
+
+            </MenuItem>
+            <MenuItem x:Name="mi_Play" Header="_Play Wave" Height="32" Width="77"       Click= "playWave_Click"/>
+            <MenuItem x:Name="mi_Filter" Header="_Filter Wave" Height="32" Width="83">
+                <MenuItem Header="low pass" Click="filterLow_Click" />
+                <Separator />
+                <MenuItem Header="high pass" Click="filterHigh_Click"/>
+            </MenuItem>
+        </Menu>
+        <Label Content="Wave Information:" HorizontalAlignment="Left" Margin="1,54,0,0" VerticalAlignment="Top" Width="141" FontSize="14" FontWeight="Bold" Height="33"/>
+        <Label x:Name="lbl_sf" Content="Sample Frequency: " HorizontalAlignment="Left" Margin="1,88,0,0" VerticalAlignment="Top" Width="179" Height="30"/>
+        <Label x:Name="lbl_channels" Content="Num of channels: " HorizontalAlignment="Left" Margin="1,118,0,0" VerticalAlignment="Top" Width="179" Height="30"/>
+        <Label x:Name="lbl_samples" Content="Num of Samples: " HorizontalAlignment="Left" Margin="1,149,0,0" VerticalAlignment="Top" Width="179" Height="31"/>
+        <Label x:Name="lbl_bits" Content="Bits/Sample: " HorizontalAlignment="Left" Margin="1,179,0,0" VerticalAlignment="Top" Width="179" Height="30"/>
+        <Label x:Name="lbl_dur" Content="Duration: " HorizontalAlignment="Left" Margin="1,209,0,0" VerticalAlignment="Top" Width="179" Height="31"/>
+        <Canvas x:Name="cnvChart" HorizontalAlignment="Left" Height="445"             Margin="221,55,0,0" VerticalAlignment="Top" Width="531"             Background="{DynamicResource {x:Static SystemColors.MenuBrushKey}}"/>
+        <Canvas x:Name="freqChart" HorizontalAlignment="Left" Height="445"             Margin="782,55,0,0" VerticalAlignment="Top" Width="531"             Background="{DynamicResource {x:Static SystemColors.MenuBrushKey}}"/>
+        <Button x:Name="btnStart" Content="Plot" HorizontalAlignment="Left"             Height="55" Margin="10,445,0,0" VerticalAlignment="Top"              Width="170" FontSize="24" Click="Button_Click"/>
+        <Label Content="Start Time: " HorizontalAlignment="Left" Margin="1,275,0,0" VerticalAlignment="Top" Height="34" Width="75"/>
+        <Label Content="End Time : " HorizontalAlignment="Left" Margin="1,316,0,0" VerticalAlignment="Top" Height="32" Width="68"/>
+        <TextBox x:Name="txt_start" HorizontalAlignment="Left" Height="31" Margin="87,277,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="93"/>
+        <TextBox x:Name="txt_end" HorizontalAlignment="Left" Height="30" Margin="87,320,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="93"/>
+        <Label Content="Start Freq: " HorizontalAlignment="Left" Margin="1,365,0,0" VerticalAlignment="Top" Height="34" Width="75"/>
+        <Label Content="End Freq: " HorizontalAlignment="Left" Margin="1,404,0,0" VerticalAlignment="Top" Height="32" Width="68"/>
+        <TextBox x:Name="txt_start_freq" HorizontalAlignment="Left" Height="31" Margin="87,368,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="93"/>
+        <TextBox x:Name="txt_end_freq" HorizontalAlignment="Left" Height="30" Margin="87,408,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="93"/>
+        <Label Content="Background Color(RGB): " HorizontalAlignment="Left" Margin="621,-5,0,0" VerticalAlignment="Top"/>
+        <Label Content="Foreground Color(RGB): " HorizontalAlignment="Left" Margin="621,26,0,0" VerticalAlignment="Top" Height="24" Width="141"/>
+        <Label Content="R:" HorizontalAlignment="Left" Margin="782,-1,0,0" VerticalAlignment="Top"/>
+        <Label Content="G:" HorizontalAlignment="Left" Margin="843,-1,0,0" VerticalAlignment="Top"/>
+        <Label Content="B:" HorizontalAlignment="Left" Margin="907,0,0,0" VerticalAlignment="Top"/>
+        <Label Content="R:" HorizontalAlignment="Left" Margin="782,28,0,0" VerticalAlignment="Top"/>
+        <Label Content="G:" HorizontalAlignment="Left" Margin="843,26,0,0" VerticalAlignment="Top"/>
+        <Label Content="B:" HorizontalAlignment="Left" Margin="907,26,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txt_bkR" HorizontalAlignment="Left" Height="23" Margin="805,1,0,0" TextWrapping="Wrap" Text="255" VerticalAlignment="Top" Width="36"/>
+        <TextBox x:Name="txt_frR" HorizontalAlignment="Left" Height="23" Margin="806,31,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="34"/>
+        <TextBox x:Name="txt_bkG" HorizontalAlignment="Left" Height="23" Margin="865,1,0,0" TextWrapping="Wrap" Text="255" VerticalAlignment="Top" Width="37"/>
+        <TextBox x:Name="txt_bkB" HorizontalAlignment="Left" Height="23" Margin="926,1,0,0" TextWrapping="Wrap" Text="255" VerticalAlignment="Top" Width="35"/>
+        <TextBox x:Name="txt_frG" HorizontalAlignment="Left" Height="23" Margin="865,31,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="37"/>
+        <TextBox x:Name="txt_frB" HorizontalAlignment="Left" Height="23" Margin="926,31,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="35"/>
+        <Button x:Name="btn_color" Content="Update Color" HorizontalAlignment="Left" Margin="982,10,0,0" VerticalAlignment="Top" Width="84" Height="33" Click="btn_color_Click"/>
+    </Grid>
+</Window>
